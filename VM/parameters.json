@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmName": {
-            "value": "ARMVM1"
+            "value": "ARMVM2"
         },
         "adminUsername": {
             "value": "armadmin"
